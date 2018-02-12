@@ -20,4 +20,4 @@ apt-get install gdebi-core
 
 wget https://download1.rstudio.org/rstudio-1.1.423-amd64.deb
 
-apt-get install gdebi-core
+gdebi rstudio-1.1.423-amd64.deb
